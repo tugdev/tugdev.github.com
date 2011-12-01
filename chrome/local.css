@@ -1,0 +1,17 @@
+---
+layout: nil
+---
+
+/* 
+ * =============================================================================
+ * Siteye özel Baz CSS
+ * =============================================================================
+ */
+body {
+background-color: none;
+background-image:url("arka.png")
+background-repeat: no-repeat;
+background-attachment: fixed;
+
+}
+

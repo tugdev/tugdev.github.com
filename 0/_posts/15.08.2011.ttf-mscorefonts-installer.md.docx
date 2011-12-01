@@ -1,0 +1,32 @@
+---
+layout: post
+title: ttf-mscorefonts-installer sorunu
+---
+
+genelde <b>Ubuntu 10.10</b> da UYM(Ubuntu Yazýlým Merkezinden) yazýlým kuruldugunda baþka bir yükleme/update programý açýk kaldýðý için <b> ttf-mscorefonts-installer </b>sorunu ortaya çýkar. Ayný anda sadece bir yükleme/update iþlemi yapýlabilir. 
+<br>
+
+<code> ''Üstesinden gelinemeyecek bir sorun oluþtu.Yazýlým kurmanýzý/kaldýrmanýzý saðlayan ve diðer paket yönetim görevlerini gerçekleþtiren aptdaemon yazýlýmýnda bir programlama hatasý var gibi görünüyor. Lütfen bu hatayý http://launchpad.net/aptdaemon/+filebug baðlantýsýnda bildirin ve yeniden deneyin.''</code> hatasýný alýnýr ve altta ayrýntýlar kýsmýnda:
+
+<b>Traceback (most recent call last):</b><br>
+<b>  File "/usr/lib/python2.6/dist-packages/aptdaemon/worker.py", line 769, in simulate</b><br>
+ <b>   return self._simulate_helper(trans, status_path)</b><br>
+<b> File "/usr/lib/python2.6/dist-packages/aptdaemon/worker.py", line 948, in _simulate_helper</b><br>
+<b>    return depends, status, self._cache.required_download, \</b><br>
+ <b> File "/usr/lib/python2.6/dist-packages/apt/cache.py", line 218, in required_download</b><br>
+ <b>   pm.get_archives(fetcher, self._list, self._records)</b><br>
+<b>SystemError: E:I wasn't able to locate file for the ttf-mscorefonts-installer package. This might mean you need to manually fix this package.</b><br>  Yazar...
+
+
+
+Uçbirimden tekrar kuruluma geçildiðinde ise þu hatayý çýkar:
+<br><img border=1 src="ttf-mscorefonts-installer.png">, 
+
+yukarda resimdeki ekranda TAB tuþu ile ilgili yere geçip Tamam dedikten sonra, ardýndan kurulumu tamamlayýnýz ve sorun çözüldü....
+
+<img src="alkýs.gif">
+
+kuruluma geçemezseniz eðer:
+<code><b><font size=3>sudo dpkg --configure -a </font></b></code>
+
+komutu ile denemelisiniz..
