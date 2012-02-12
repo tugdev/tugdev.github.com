@@ -8,8 +8,8 @@ layout: nil
  * =============================================================================
  */
 body {
-background-color: white;
-background-image:none
+background-color: none;
+background-image:url('../chrome/purple.jpg')
 
 }
 

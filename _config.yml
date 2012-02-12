@@ -19,7 +19,7 @@ rdiscount:
 # ----------------------------------------------------------------------
 
 # github hesap adı (ör. roktas)
-account:tugdev
+account: tugdev
 
 # github organizasyonu (ör. 19)
 organization: 19
@@ -27,7 +27,7 @@ organization: 19
 # bu siteyi üreten github deposu (ör. roktas.github.com)
 # dikkat!  depo çoğunlukla <account>.github.com formundadır.  fakat başka
 # bir depo da olabilir.  url parametresi için yazılan açıklamayı okuyun.
-repository: tugdev.github.com 
+repository: tugdev.github.com
 
 # üretilen sitenin web adresi ne?  ör. "http://roktas.github.com".
 # CNAME kaydımız varsa bu adresi giriyoruz.  dikkat!  bu site
@@ -59,11 +59,11 @@ param:
         # --------------------------------------------------------------
         # unix kullanıcı adı (ör. roktas)
         # dikkat!  unix kullanıcı adı github hesabından farklı olabilir
-        user:tugdev
-        # tam kullanıcı adı (ör. roktas)
+        user: tugdev
+        # tam kullanıcı adı (ör. Recai Oktaş)
         fullname: Tugba Devravut
         # email adresi (ör. roktas@bil.omu.edu.tr)
-        email:  tugba.devravut@bil.omu.edu.tr
+        email: tugba.devravut@bil.omu.edu.tr
         # ünvan (ör. Bilgisayar Mühendisliği Öğrencisi)
         title: <a href="http://ondokuz.biz/">19</a> üyesi
         # GnuPG kısa parmak izi (ör. DEADBEEF)
@@ -99,11 +99,11 @@ param:
         # ilişkili girdiler
         related: Diğer Girdiler
         # logo (ör. http://00010011.github.com/assets/19/19-normal-128x128.png)
-        logo: /chrome/19/19-normal-128x128.png
+        logo: chrome/19/19-altnegative-128x128.png
         # google site içi arama kutusu
         google: ~
         # google analytics takip numarası (ör. UA-1234567-8
-        googleanalyticsid: 
+        googleanalyticsid: ~
         # sayfa yorumları için disqus site kaydı (ör. roktas)
         disqus: tugdev
         # GitHub şerit metni (ör. GitHub'dayım)
