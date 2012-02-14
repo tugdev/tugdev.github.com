@@ -25,3 +25,8 @@ Internet Explorer için düzen, özel ayarlamalar otomatik olarak oluşturulur  
 
 Bu servisle istediğiniz yapının HTML ve CSS kodlarını birkaç tıkla oluşturup kullanmaya başlayabilirsiniz.
 Ayrıca bir çok içerik yönetim sistemi (CMS) için hazırlanmış tema ve eklentileri de bulunuyor. Buradan listeye gözatabilirsiniz.
+
+<a href="http://www.yaml.de/en/" target="_blank" >YAML Anasayfası </a>
+<a href="http://www.yaml.de/en/download.html" target="_blank">YAML İndirme Sayfası </a>
+<a href="http://blog.yaml.de/en/" target="_blank">YAML Blog </a>
+<a href="http://www.yaml.de/en/documentation.html" target="_blank">YAML Dökümantasyonu </a>
