@@ -20,7 +20,7 @@ Içerik sütun sayısı ve konumlarının yanı sıra,
 dinamik sürükleme ve bırakma subtemplates grid tabanlı bir düzen oluşturma gibi temel düzen özellikleri ayarı sağlar.
 Internet Explorer için düzen, özel ayarlamalar otomatik olarak oluşturulur  .
 
-<img src="/image/yaml-builder.png" width="200" height="200"> 
+<img src="image/yaml-builder.png" /> 
 
 
 Bu servisle istediğiniz yapının HTML ve CSS kodlarını birkaç tıkla oluşturup kullanmaya başlayabilirsiniz.
