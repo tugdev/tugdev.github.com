@@ -10,19 +10,19 @@
 <BODY LANG="tr-TR" DIR="LTR">
 <P STYLE="margin-bottom: 0cm">--- layout: post title: jeditable --- 
 </P>
-<P STYLE="margin-bottom: 0cm">Form a&ccedil;mak yerine kullanici
-i&ccedil;eriklerini aninda yerinde g&uuml;ncellemeyi saglayan script.</P>
+<P STYLE="margin-bottom: 0cm">Form açmak yerine kullanici
+içeriklerini aninda yerinde güncellemeyi saglayan script.</P>
 <P STYLE="margin-bottom: 0cm"> JQuery kullanilarak yapilmis bu
-uygulama olduk&ccedil;a kullanisli g&ouml;z&uuml;k&uuml;yor. Ilk
+uygulama oldukça kullanisli gözüküyor. Ilk
 bakista 
 </P>
 <P STYLE="margin-bottom: 0cm">anlasilmasi biraz zor gelebilir. Fakat
-islevsel anlamda bakilirsa, bir&ccedil;ok alanda kullanilabilir</P>
+iþlevsel anlamda bakilirsa, birçok alanda kullanilabilir</P>
 <P STYLE="margin-bottom: 0cm"> ve kullanicilariniza ciddi kolayliklar
-saglayabilir. Uygulama websitenizdeki bir text &uuml;zerine</P>
-<P STYLE="margin-bottom: 0cm"> &ccedil;ift tiklama (doubleclick), tek
-tiklama,fare ile &uuml;zerine gelindigin de dahi alanin istediginiz</P>
-<P STYLE="margin-bottom: 0cm"> form alanina d&ouml;n&uuml;smesine
+saglayabilir. Uygulama websitenizdeki bir text üzerine</P>
+<P STYLE="margin-bottom: 0cm"> çift tiklama (doubleclick), tek
+tiklama,fare ile üzerine gelindigin de dahi alanin istediginiz</P>
+<P STYLE="margin-bottom: 0cm"> form alanina dönüþmesine
 yariyor. Uygulamayi <A HREF="http://www.appelsiini.net/projects/jeditable/default.html" TARGET="_blank">buradan
 </A>deneyebilir , <A HREF="http://www.appelsiini.net/projects/jeditable" TARGET="_blank">buradan
 </A>da indirebilir ve kullanimini inceleyebilirsiniz. 
