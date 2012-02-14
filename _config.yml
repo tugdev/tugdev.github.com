@@ -19,11 +19,11 @@ rdiscount:
 # ----------------------------------------------------------------------
 
 # github hesap adı (ör. roktas)
-<<<<<<< HEAD
+
 account:tugdev
-=======
+
 account: tugdev
->>>>>>> d2e23c912c642a8204d66b8141463c38f6830835
+
 
 # github organizasyonu (ör. 19)
 organization: 19
@@ -31,11 +31,11 @@ organization: 19
 # bu siteyi üreten github deposu (ör. roktas.github.com)
 # dikkat!  depo çoğunlukla <account>.github.com formundadır.  fakat başka
 # bir depo da olabilir.  url parametresi için yazılan açıklamayı okuyun.
-<<<<<<< HEAD
+
 repository: tugdev.github.com 
-=======
+
 repository: tugdev.github.com
->>>>>>> d2e23c912c642a8204d66b8141463c38f6830835
+
 
 # üretilen sitenin web adresi ne?  ör. "http://roktas.github.com".
 # CNAME kaydımız varsa bu adresi giriyoruz.  dikkat!  bu site
@@ -67,7 +67,7 @@ param:
         # --------------------------------------------------------------
         # unix kullanıcı adı (ör. roktas)
         # dikkat!  unix kullanıcı adı github hesabından farklı olabilir
-<<<<<<< HEAD
+
         user:tugdev
         # tam kullanıcı adı (ör. roktas)
         fullname: Tugba Devravut
@@ -83,7 +83,7 @@ param:
         flickr: 
         # facebook adresi (ör. http://facebook.com/roktas)
         facebook:  http://facebook.com/TugBadvRvt
-=======
+
         user: tugdev
         # tam kullanıcı adı (ör. Recai Oktaş)
         fullname: TUĞBA DEVRAVUT
@@ -99,7 +99,7 @@ param:
         flickr: ~
         # facebook adresi (ör. http://facebook.com/roktas)
         facebook: ~
->>>>>>> d2e23c912c642a8204d66b8141463c38f6830835
+
         # özet akışı adresi (ör. http://feeds.feedburner.com/roktas)
         feed: ~
 
@@ -129,11 +129,11 @@ param:
         # google site içi arama kutusu
         google: ~
         # google analytics takip numarası (ör. UA-1234567-8
-<<<<<<< HEAD
+
         googleanalyticsid: 
-=======
+
         googleanalyticsid: ~
->>>>>>> d2e23c912c642a8204d66b8141463c38f6830835
+
         # sayfa yorumları için disqus site kaydı (ör. roktas)
         disqus: tugdev
         # GitHub şerit metni (ör. GitHub'dayım)
