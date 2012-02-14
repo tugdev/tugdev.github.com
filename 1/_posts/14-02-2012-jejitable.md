@@ -1,3 +1,8 @@
+---
+layout: post
+title: jeditable
+---
+
 Form açmak yerine kullanici içeriklerini aninda yerinde güncellemeyi saglayan script. 
 JQuery kullanilarak yapilmis bu uygulama oldukça kullanisli gözüküyor. Ilk bakista anlasilmasi biraz zor gelebilir. Fakat islevsel anlamda bakilirsa, birçok alanda kullanilabilir ve kullanicilariniza ciddi kolayliklar saglayabilir.
 
