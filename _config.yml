@@ -19,11 +19,7 @@ rdiscount:
 # ----------------------------------------------------------------------
 
 # github hesap adı (ör. roktas)
-
-account:tugdev
-
 account: tugdev
-
 
 # github organizasyonu (ör. 19)
 organization: 19
@@ -31,11 +27,7 @@ organization: 19
 # bu siteyi üreten github deposu (ör. roktas.github.com)
 # dikkat!  depo çoğunlukla <account>.github.com formundadır.  fakat başka
 # bir depo da olabilir.  url parametresi için yazılan açıklamayı okuyun.
-
-repository: tugdev.github.com 
-
 repository: tugdev.github.com
-
 
 # üretilen sitenin web adresi ne?  ör. "http://roktas.github.com".
 # CNAME kaydımız varsa bu adresi giriyoruz.  dikkat!  bu site
@@ -67,26 +59,9 @@ param:
         # --------------------------------------------------------------
         # unix kullanıcı adı (ör. roktas)
         # dikkat!  unix kullanıcı adı github hesabından farklı olabilir
-
-        user:tugdev
-        # tam kullanıcı adı (ör. roktas)
-        fullname: Tugba Devravut
-        # email adresi (ör. roktas@bil.omu.edu.tr)
-        email:  tugba.devravut@bil.omu.edu.tr
-        # ünvan (ör. Bilgisayar Mühendisliği Öğrencisi)
-        title:  Bilgisayar Mühendisliği Öğrencisi
-        # GnuPG kısa parmak izi (ör. DEADBEEF)
-        gpg: ~
-        # twitter adresi (ör. http://19.status.net/roktas)
-        twitter: https://twitter.com/xtugdevx
-        # flick adresi (ör. http://flickr.com/photos/roktas)
-        flickr: 
-        # facebook adresi (ör. http://facebook.com/roktas)
-        facebook:  http://facebook.com/TugBadvRvt
-
         user: tugdev
         # tam kullanıcı adı (ör. Recai Oktaş)
-        fullname: TUĞBA DEVRAVUT
+        fullname: tuğba devravut
         # email adresi (ör. roktas@bil.omu.edu.tr)
         email: tugba.devravut@bil.omu.edu.tr
         # ünvan (ör. Bilgisayar Mühendisliği Öğrencisi)
@@ -99,7 +74,6 @@ param:
         flickr: ~
         # facebook adresi (ör. http://facebook.com/roktas)
         facebook: ~
-
         # özet akışı adresi (ör. http://feeds.feedburner.com/roktas)
         feed: ~
 
@@ -129,11 +103,7 @@ param:
         # google site içi arama kutusu
         google: ~
         # google analytics takip numarası (ör. UA-1234567-8
-
-        googleanalyticsid: 
-
         googleanalyticsid: ~
-
         # sayfa yorumları için disqus site kaydı (ör. roktas)
         disqus: tugdev
         # GitHub şerit metni (ör. GitHub'dayım)
