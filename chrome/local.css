@@ -8,10 +8,24 @@ layout: nil
  * =============================================================================
  */
 body {
+<<<<<<< HEAD
 background-color: none;
 background-image:url('arka.png');
 /*background-repeat: no-repeat;*/
 background-attachment: fixed
 
 }
+=======
+background-color: white;
+background-image:url('../chrome/arka_p.png')
+}
+a.deneme{
+position:absolute; top:262px;left:450px}
+
+.deneme2{
+position:absolute; top:262px;left:600px}
+
+a.deneme3{
+position:absolute; top:262px;left:793px}
+>>>>>>> d2e23c912c642a8204d66b8141463c38f6830835
 
