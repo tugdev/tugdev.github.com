@@ -20,7 +20,18 @@ Içerik sütun sayısı ve konumlarının yanı sıra,
 dinamik sürükleme ve bırakma subtemplates grid tabanlı bir düzen oluşturma gibi temel düzen özellikleri ayarı sağlar.
 Internet Explorer için düzen, özel ayarlamalar otomatik olarak oluşturulur  .
 
-<img src="/images/yaml-builder.png" /> 
+<script language="JavaScript">
+function resimcerceve(){
+document.resim.border=9;
+}
+function resimcerceveyok() {
+document.resim.border=0;
+}
+</script>
+<a href="#" onMouseOver="resimcerceve()"
+onMouseOut="resimcerceveyok()">
+<img src="/images/yaml-builder.png" name="resim" border="3" /></a>
+
 
 
 Bu servisle istediğiniz yapının HTML ve CSS kodlarını birkaç tıkla oluşturup kullanmaya başlayabilirsiniz.
