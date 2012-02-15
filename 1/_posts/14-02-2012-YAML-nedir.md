@@ -28,7 +28,7 @@ function resimcerceveyok() {
 document.resim.border=0;
 }
 </script>
-<a href="#" onMouseOver="resimcerceve()"
+<a href="/images/yaml-builder.png" onMouseOver="resimcerceve()"
 onMouseOut="resimcerceveyok()">
 <img src="/images/yaml-builder.png" name="resim" border="3" /></a>
 
