@@ -10,14 +10,14 @@ layout: nil
 body {
 <<<<<<< HEAD
 background-color: none;
-background-image:url('arka.png');
+background-image:url('arka.jpg');
 /*background-repeat: no-repeat;*/
 background-attachment: fixed
 
 }
 =======
 background-color: white;
-background-image:url('../chrome/arka_p.png')
+background-image:url('../chrome/arka.jpg')
 }
 a.deneme{
 position:absolute; top:262px;left:450px}
