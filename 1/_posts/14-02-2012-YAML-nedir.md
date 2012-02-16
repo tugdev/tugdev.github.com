@@ -28,7 +28,7 @@ function resimcerceveyok() {
 document.resim.border=0;
 }
 </script>
-<a href="http://www.google.com.tr/imgres?q=yaml+builder&hl=tr&sa=X&biw=1366&bih=630&tbm=isch&prmd=imvns&tbnid=gNftIgfTv6nUjM:&imgrefurl=http://coding.smashingmagazine.com/2007/09/21/css-frameworks-css-reset-design-from-scratch/&docid=IboRgaWa6Gl8yM&imgurl=http://media.smashingmagazine.com/images/best-of-08-2007/yaml-builder.png&w=450&h=332&ei=-xw9T_WEIoHXsgbW0MX1BA&zoom=1&iact=rc&dur=293&sig=105195202859153691982&page=1&tbnh=132&tbnw=179&start=0&ndsp=18&ved=0CD8QrQMwAA&tx=141&ty=61" onMouseOver="resimcerceve()"
+<a href="http://www.google.com.tr/imgres?q=yaml+builder&hl=tr&sa=X&biw=1366&bih=630&tbm=isch&prmd=imvns&tbnid=gNftIgfTv6nUjM:&imgrefurl=http://coding.smashingmagazine.com/2007/09/21/css-frameworks-css-reset-design-from-scratch/&docid=IboRgaWa6Gl8yM&imgurl=http://media.smashingmagazine.com/images/best-of-08-2007/yaml-builder.png&w=450&h=332&ei=-xw9T_WEIoHXsgbW0MX1BA&zoom=1&iact=rc&dur=293&sig=105195202859153691982&page=1&tbnh=132&tbnw=179&start=0&ndsp=18&ved=0CD8QrQMwAA&tx=141&ty=61" target="_blank" title="tıkla" onMouseOver="resimcerceve()"
 onMouseOut="resimcerceveyok()">
 <img src="/images/yaml-builder.png" name="resim" border="3" /></a>
 
