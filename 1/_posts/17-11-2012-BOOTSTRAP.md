@@ -46,25 +46,25 @@ Twitter Bootstrap, LESS'i (<a href="http://bsaral.github.com/112/Less-Css/" targ
 
 <b>basit bir kodla html sayfası;</b>
 
-			&lt;html&gt;	
-		 &lt;head&gt;
-			&lt;link rel="stylesheet" href="docs/assets/css/bootstrap.css"&gt;
-			&lt;link rel="stylesheet/less" href="less/bootstrap.less"&gt;
-		 &lt;/head&gt;
-		 &lt;body&gt;
-		  &lt;div class="container"&gt;
-				&lt;div class="span9"&gt;
-					&lt;div class="hero-unit"&gt;
-						&lt;p&gt; MERHABA DÜNYA &lt;/p&gt;
-					&lt;/div&gt;
-					
-				&lt;/div&gt;
-				
+	&lt;html&gt;	
+ &lt;head&gt;
+	&lt;link rel="stylesheet" href="docs/assets/css/bootstrap.css"&gt;
+	&lt;link rel="stylesheet/less" href="less/bootstrap.less"&gt;
+ &lt;/head&gt;
+ &lt;body&gt;
+  &lt;div class="container"&gt;
+		&lt;div class="span9"&gt;
+			&lt;div class="hero-unit"&gt;
+				&lt;p&gt; MERHABA DÜNYA &lt;/p&gt;
 			&lt;/div&gt;
-			<!-- /container -->
 			
-		<code>&lt;/body&gt;
-		<code>&lt;/html&gt;
+		&lt;/div&gt;
+		
+	&lt;/div&gt;
+	<!-- /container -->
+	
+<code>&lt;/body&gt;
+<code>&lt;/html&gt;
 
 
 <img src="/images/kod.png" name="resim" border="1" />
