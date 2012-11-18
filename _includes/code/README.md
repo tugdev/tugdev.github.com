@@ -1,1 +1,1 @@
-Kodlar bu dizinde.
+Kodlar bu dizinde bulunacak.
