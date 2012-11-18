@@ -8,7 +8,7 @@ CSS,HTML,formlar,düğmeler,tablolar,navigasyon,ızgaralar,uyarılar,açılır p
 
  - Bootstrap ile CSS'ye tam anlamıyla hakim olabilirsiniz.
 
- - Bootstrap <a href="https://github.com/twitter/bootstrap" target="_blank" >GİTHUB </a> tarafından açık kaynak olarak geliştirilmektedir.
+ - Bootstrap <a href="https://github.com/twitter/bootstrap" target="_blank" > GİTHUB </a> tarafından açık kaynak olarak geliştirilmektedir.
 
  - Bootstrap HTML5'in tüm özelliklerini destekler.
 
@@ -16,7 +16,7 @@ CSS,HTML,formlar,düğmeler,tablolar,navigasyon,ızgaralar,uyarılar,açılır p
 
 <p>TARAYICI DESTEĞİ</p>
 
-Modern web tarayıcıları Chrome,Opera,Firefox 4+,Safari ve İnternet Explorer( :( ) versiyonları destekler.
+Modern web tarayıcıları Chrome,Opera,Firefox 4+,Safari ve İnternet Explorer( :'( ) versiyonları destekler.
 
 <img src="/images/tarayıcı.png" name="resim" border="1" />
 
@@ -45,7 +45,7 @@ Twitter Bootstrap, LESS'i (<a href="http://bsaral.github.com/112/Less-Css/" targ
 
 <p>Hemen birkaç örnek verelim.</p>
 
-<h5 align="center" >basit bir kodla html sayfası:</h5>
+<h5 align="center" >basit bir html sayfası oluşumu</h5>
 <br>
 
 	<html>
@@ -75,7 +75,7 @@ Twitter Bootstrap, LESS'i (<a href="http://bsaral.github.com/112/Less-Css/" targ
 <br>
 
 --
-<h5 align="center" >vurgulu yazılar:</h5>
+<h5 align="center" >vurgulu yazılar</h5>
 <br>
 
 	<p class="muted">sessiz.</p>
@@ -124,7 +124,7 @@ Twitter Bootstrap, LESS'i (<a href="http://bsaral.github.com/112/Less-Css/" targ
 <br>
 
 --
-<h5 align="center" >button-tip</h5>
+<h5 align="center" >button</h5>
 <br>
 
 	<button type="button" class="btn btn-large btn-primary">Large button</button>
@@ -146,22 +146,22 @@ Twitter Bootstrap, LESS'i (<a href="http://bsaral.github.com/112/Less-Css/" targ
 <br>
 <br>
 
-...vs vs vs .....
+...vs.....
 
 daha fazlası için.
 
-- Bootstrap'ın resmi internet sitesi     <a href="http://twitter.github.com/bootstrap/" target="_blank" >buyrun </a>
+- Bootstrap'ın resmi internet sitesi     <a href="http://twitter.github.com/bootstrap/" target="_blank" > buyrun </a>
 
-- Bootstrap ile oluşturulmuş temalar <a href="http://bootswatch.com/#gallery" target="_blank" >buyrun </a>
+- Bootstrap ile oluşturulmuş temalar <a href="http://bootswatch.com/#gallery" target="_blank" > buyrun </a>
 
-- Bootstrap ile oluşturulmuş web sitelerine   <a href="http://builtwithbootstrap.com/" target="_blank" >buyrun </a>
+- Bootstrap ile oluşturulmuş web sitelerine   <a href="http://builtwithbootstrap.com/" target="_blank" > buyrun </a>
 
 - Daha detaylı bilgi için resmi blog yazısına ulaşabilirsiniz. <a href="https://dev.twitter.com/blog/bootstrap-twitter" target="_blank" >buyrun </a>
 
 --
-- Ayrıca resmi sitesinde bulunan kodları daha sade şekilde yazmaya çalıştım.kodları için github depom (depomun gh-pages dalında)<a href="https://github.com/tugdev/bootstrap/tree/gh-pages" target="_blank" >buyrun </a>
+- Ayrıca resmi sitesinde bulunan kodları daha sade şekilde yazmaya çalıştım.kodları için github depom (depomun gh-pages dalında)<a href="https://github.com/tugdev/bootstrap/tree/gh-pages" target="_blank" > buyrun </a>
 
-- Ve demolarını görmek için <a href="http://tugdev.github.com/bootstrap/" target="_blank" >buyrun </a>
+- Ve demolarını görmek için <a href="http://tugdev.github.com/bootstrap/" target="_blank" > buyrun </a>
 
 
 
