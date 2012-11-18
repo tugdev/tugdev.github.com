@@ -44,7 +44,7 @@ Twitter Bootstrap, LESS'i (<a href="http://bsaral.github.com/112/Less-Css/" targ
 
 <p>Hemen birkaç örnek verelim.</p>
 
-<b align="center" >basit bir kodla html sayfası:</b>
+<h5 align="center" >basit bir kodla html sayfası:</h5>
 <br>
 
 	<html>
@@ -73,7 +73,7 @@ Twitter Bootstrap, LESS'i (<a href="http://bsaral.github.com/112/Less-Css/" targ
 <br>
 <br>
 
-<b>vurgulu yazılar:</b>
+<h5 align="center" >vurgulu yazılar:</h5>
 <br>
 
 	<p class="muted">sessiz.</p>
@@ -88,7 +88,7 @@ Twitter Bootstrap, LESS'i (<a href="http://bsaral.github.com/112/Less-Css/" targ
 <br>
 <br>
 
-<b>form örneği </b>
+<h5 align="center" >form örneği </h5>
 <br>
 	<form class="form-horizontal">
 		<div class="control-group">
@@ -121,7 +121,7 @@ Twitter Bootstrap, LESS'i (<a href="http://bsaral.github.com/112/Less-Css/" targ
 <br>
 
 
-<b>button-tip</b>
+<h5 align="center" >button-tip</h5>
 
 	<button type="button" class="btn btn-large btn-primary">Large button</button>
 	<button type="button" class="btn btn-large">Large button</button>
