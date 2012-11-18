@@ -44,7 +44,8 @@ Twitter Bootstrap, LESS'i (<a href="http://bsaral.github.com/112/Less-Css/" targ
 
 <p>Hemen birkaç örnek verelim.</p>
 
-<b>basit bir kodla html sayfası;</b>
+<b>basit bir kodla html sayfası:</b>
+<br>
 
 	<html>
 	<head>
@@ -69,67 +70,58 @@ Twitter Bootstrap, LESS'i (<a href="http://bsaral.github.com/112/Less-Css/" targ
 
 <img src="/images/kod.png" name="resim" border="1" />
 
-<b>vurgulu yazılar;</b>
+<b>vurgulu yazılar:</b>
+<br>
 
-		&lt;p class="muted"&gt;sessiz.&lt;/p&gt;
-
-		&lt;p class="text-warning"&gt;uyarı.&lt;/p&gt;
-
-		&lt;p class="text-error"&gt;hata.&lt;/p&gt;
-
-		&lt;p class="text-info"&gt;haber.&lt;/p&gt;
-
-		&lt;p class="text-success"&gt;başarı.&lt;/p&gt;
+	<p class="muted">sessiz.</p>
+	<p class="text-warning">uyarı.</p>
+	<p class="text-error">hata.</p>
+	<p class="text-info">haber.</p>
+	<p class="text-success">başarı.</p>
 
 <img src="/images/vurgu.png" name="resim" border="1" />
 
-<b>form örneği </p>
-
-		&lt;form class="form-horizontal"&gt;
-		  &lt;div class="control-group"&gt;
-			&lt;label class="control-label" for="inputEmail"&gt;Email&lt;/label&gt;
-			&lt;div class="controls"&gt;
-			  &lt;input type="text" id="inputEmail" placeholder="Email"&gt;
-			&lt;/div&gt;
-		  &lt;/div&gt;
-		  &lt;div class="control-group"&gt;
-			&lt;label class="control-label" for="inputPassword"&gt;Password&lt;/label&gt;
-			&lt;div class="controls"&gt;
-			  &lt;input type="password" id="inputPassword" placeholder="Password"&gt;
-			&lt;/div&gt;
-		  &lt;/div&gt;
-		  &lt;div class="control-group"&gt;
-			&lt;div class="controls"&gt;
-			  &lt;label class="checkbox"&gt;
-				&lt;input type="checkbox"&gt; Remember me
-			  &lt;/label&gt;
-			  &lt;button type="submit" class="btn"&gt;Sign in&lt;/button&gt;
-		   &lt;/div&gt;
-		  &lt;/div&gt;
-		&lt;/form&gt;
-
+<b>form örneği </b>
+<br>
+	<form class="form-horizontal">
+		<div class="control-group">
+		  <label class="control-label" for="inputEmail">Email</label>
+		  <div class="controls">
+		<input type="text" id="inputEmail" placeholder="Email">
+		  </div>
+		</div>
+		<div class="control-group">
+		  <label class="control-label" for="inputPassword">Password</label>
+		  <div class="controls">
+		<input type="password" id="inputPassword" placeholder="Password">
+		  </div>
+		</div>
+		<div class="control-group">
+		  <div class="controls">
+		<label class="checkbox">
+		  <input type="checkbox"> Remember me
+		</label>
+		<button type="submit" class="btn">Sign in</button>
+		  </div>
+		</div>
+	  </form>
+	  
 <img src="/images/form.png" name="resim" border="1" />
 
 <b>button-tip</b>
 
+	<button type="button" class="btn btn-large btn-primary">Large button</button>
+	<button type="button" class="btn btn-large">Large button</button>
 
-		&lt;p&gt;
-		  &lt;button class="btn btn-large btn-primary" type="button"&gt;Large button&lt;/button&gt;
-		  &lt;button class="btn btn-large" type="button"&gt;Large button&lt;/button&gt;
-		&lt;/p&gt;
-		&lt;p&gt;
-		  &lt;button class="btn btn-primary" type="button"&gt;Default button&lt;/button&gt;
-		  &lt;button class="btn" type="button"&gt;Default button&lt;/button&gt;
-		&lt;/p&gt;
-		&lt;p&gt;
-		  &lt;button class="btn btn-small btn-primary" type="button"&gt;Small button&lt;/button&gt;
-		  &lt;button class="btn btn-small" type="button"&gt;Small button&lt;/button&gt;
-		&lt;/p&gt;
-		&lt;p&gt;
-		  &lt;button class="btn btn-mini btn-primary" type="button"&gt;Mini button&lt;/button&gt;
-		  &lt;button class="btn btn-mini" type="button"&gt;Mini button&lt;/button&gt;
-		&lt;/p&gt;
+	<button type="button" class="btn btn-primary">Default button</button>
+	<button type="button" class="btn">Default button</button>
 
+	<button type="button" class="btn btn-small btn-primary">Small button</button>
+	<button type="button" class="btn btn-small">Small button</button>
+
+	<button type="button" class="btn btn-mini btn-primary">Mini button</button>
+	<button type="button" class="btn btn-mini">Mini button</button>
+			 
 
 <img src="/images/button.png" name="resim" border="1" />
 
