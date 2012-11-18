@@ -14,14 +14,14 @@ CSS,HTML,formlar,düğmeler,tablolar,navigasyon,ızgaralar,uyarılar,açılır p
 
  - Bootstrap ile oluşturulmak istenen projeler için özel olarak tasarlanmış JQuery eklentileri vardır.
 
-<p>TARAYICI DESTEĞİ</p>
+<p><b>TARAYICI DESTEĞİ</b></p>
 
 Modern web tarayıcıları Chrome,Opera,Firefox 4+,Safari ve İnternet Explorer( :'( ) versiyonları destekler.
 
 <img src="/images/tarayıcı.png" name="resim" border="1" />
 
 
-<p>yapılması gerekenler</p>
+<p><b>yapılması gerekenler<b></p>
 
 Twitter-Bootstrapı <a href="https://github.com/twitter/bootstrap" target="_blank" > GİTHUB </a> sayfasından inidirin ve klasörün içine oluşturmak istediğiniz HTML sayfasını yerleştirin.
 İndirmiş oldugunuz bu depo içinde Bootstrap'ın önemli dosyaları bulunmaktadır.Bu dosyalardan yararlanabilmek için HTML sayfasına bunların include edilmesi gerekmektedir.
@@ -41,11 +41,11 @@ Twitter Bootstrap, LESS'i (<a href="http://bsaral.github.com/112/Less-Css/" targ
 
 <code>&lt;link rel="stylesheet/less" href="less/bootstrap.less"&gt;</code>
 
-<code>&lt;script src="/path/to/less.js"&gt;&lt;/script&gt;</code> 
+<p><code>&lt;script src="/path/to/less.js"&gt;&lt;/script&gt;</code> </p>
 
 <p>Hemen birkaç örnek verelim.</p>
 
-<h5 align="center" >basit bir html sayfası oluşumu</h5>
+<h5 align="center" ><b>basit bir html sayfası oluşumu</b></h5>
 <br>
 
 	<html>
@@ -71,7 +71,7 @@ Twitter Bootstrap, LESS'i (<a href="http://bsaral.github.com/112/Less-Css/" targ
 <br>
 
 --
-<h5 align="center" >vurgulu yazılar</h5>
+<h5 align="center" ><b>vurgulu yazılar</b></h5>
 <br>
 
 	<p class="muted">sessiz.</p>
@@ -87,7 +87,7 @@ Twitter Bootstrap, LESS'i (<a href="http://bsaral.github.com/112/Less-Css/" targ
 <br>
 
 --
-<h5 align="center" >form örneği </h5>
+<h5 align="center" ><b>form örneği</b></h5>
 <br>
 	<form class="form-horizontal">
 		<div class="control-group">
