@@ -78,7 +78,7 @@ Twitter Bootstrap, LESS'i (<a href="http://bsaral.github.com/112/Less-Css/" targ
 
 <img src="/images/vurgu.png" name="resim" border="1" />
 
-<b>form örneği </p>
+<b>form örneği </b>
 
 				<form class="form-horizontal">
 			    <div class="control-group">
