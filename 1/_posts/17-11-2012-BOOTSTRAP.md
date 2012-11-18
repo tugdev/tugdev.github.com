@@ -44,7 +44,7 @@ Twitter Bootstrap, LESS'i (<a href="http://bsaral.github.com/112/Less-Css/" targ
 
 <p>Hemen birkaç örnek verelim.</p>
 
-<b>basit bir kodla html sayfası:</b>
+<b align="center" >basit bir kodla html sayfası:</b>
 <br>
 
 	<html>
