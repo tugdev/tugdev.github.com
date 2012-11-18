@@ -6,13 +6,13 @@ Web uygulamalarını ve web sitelerini daha hızlı,modern bir yapıyla oluştur
 
 CSS,HTML,formlar,düğmeler,tablolar,navigasyon,ızgaralar,uyarılar,açılır pencereler,sekmeler ve daha fazlasını arayanlar için tasarım dilinde en çok kullanılan framework uygulamasıdır.
 
- --Bootstrap ile CSS'ye tam anlamıyla hakim olabilirsiniz.
+ - Bootstrap ile CSS'ye tam anlamıyla hakim olabilirsiniz.
 
- --Bootstrap <a href="https://github.com/twitter/bootstrap" target="_blank" >GİTHUB </a> tarafından açık kaynak olarak geliştirilmektedir.
+ - Bootstrap <a href="https://github.com/twitter/bootstrap" target="_blank" >GİTHUB </a> tarafından açık kaynak olarak geliştirilmektedir.
 
- --Bootstrap HTML5'in tüm özelliklerini destekler.
+ - Bootstrap HTML5'in tüm özelliklerini destekler.
 
- --Bootstrap ile oluşturulmak istenen projeler için özel olarak tasarlanmış JQuery eklentileri vardır.
+ - Bootstrap ile oluşturulmak istenen projeler için özel olarak tasarlanmış JQuery eklentileri vardır.
 
 <p>TARAYICI DESTEĞİ</p>
 
@@ -23,7 +23,8 @@ Modern web tarayıcıları Chrome,Opera,Firefox 4+,Safari ve İnternet Explorer(
 
 <p>yapılması gerekenler</p>
 
-Twitter-Bootstrapı <a href="https://github.com/twitter/bootstrap" target="_blank" > GİTHUB </a> sayfasından inidirin ve klasörün içine oluşturmak istediğiniz HTML sayfasını yerleştirin.İndirmiş oldugunuz bu depo içinde Bootstrap'ın önemli dosyaları bulunmaktadır.Bu dosyalardan yararlanabilmek için HTML sayfasına bunların include edilmesi gerekmektedir.
+Twitter-Bootstrapı <a href="https://github.com/twitter/bootstrap" target="_blank" > GİTHUB </a> sayfasından inidirin ve klasörün içine oluşturmak istediğiniz HTML sayfasını yerleştirin.
+İndirmiş oldugunuz bu depo içinde Bootstrap'ın önemli dosyaları bulunmaktadır.Bu dosyalardan yararlanabilmek için HTML sayfasına bunların include edilmesi gerekmektedir.
 
 <code>&lt;head&gt;&lt;/head&gt;</code>
 
