@@ -47,28 +47,24 @@ Twitter Bootstrap, LESS'i (<a href="http://bsaral.github.com/112/Less-Css/" targ
 <b>basit bir kodla html sayfası;</b>
 
 	<html>
-
 	<head>
 	<link rel="stylesheet" href="docs/assets/css/bootstrap.css">
 	<link rel="stylesheet/less" href="less/bootstrap.less">
 	</head>
 	<body>
 	<div class="container">
-	<div class="span9">
-	<div class="hero-unit">
-	<p> MERHABA DÜNYA </p>
+	 <div class="span9">
+	 <div class="hero-unit">
+	 <p> MERHABA DÜNYA</p>
 	</div>
-	</div>
-	</div>
+
+	 </div>
+
+	  </div>
+
+
 	</body>
 	</html>
-	
-	</div>
-
-</div>
-
-</body>
-</html>
 
 
 <img src="/images/kod.png" name="resim" border="1" />
