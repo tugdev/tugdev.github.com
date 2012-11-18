@@ -62,14 +62,13 @@ Twitter Bootstrap, LESS'i (<a href="http://bsaral.github.com/112/Less-Css/" targ
 	</div>
 	</body>
 	</html>
-				
-			&lt;/div&gt;
-			
-		&lt;/div&gt;
-		<!-- /container -->
-		
-	<code>&lt;/body&gt;
-	<code>&lt;/html&gt;
+	
+	</div>
+
+</div>
+
+</body>
+</html>
 
 
 <img src="/images/kod.png" name="resim" border="1" />
