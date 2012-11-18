@@ -67,8 +67,11 @@ Twitter Bootstrap, LESS'i (<a href="http://bsaral.github.com/112/Less-Css/" targ
 	</body>
 	</html>
 
-
+<br>
+<br>
 <img src="/images/kod.png" name="resim" border="1" />
+<br>
+<br>
 
 <b>vurgulu yazılar:</b>
 <br>
@@ -78,8 +81,12 @@ Twitter Bootstrap, LESS'i (<a href="http://bsaral.github.com/112/Less-Css/" targ
 	<p class="text-error">hata.</p>
 	<p class="text-info">haber.</p>
 	<p class="text-success">başarı.</p>
+<br>
+<br>
 
 <img src="/images/vurgu.png" name="resim" border="1" />
+<br>
+<br>
 
 <b>form örneği </b>
 <br>
@@ -105,8 +112,14 @@ Twitter Bootstrap, LESS'i (<a href="http://bsaral.github.com/112/Less-Css/" targ
 		  </div>
 		</div>
 	  </form>
+
+<br>
+<br>
 	  
 <img src="/images/form.png" name="resim" border="1" />
+<br>
+<br>
+
 
 <b>button-tip</b>
 
@@ -122,8 +135,12 @@ Twitter Bootstrap, LESS'i (<a href="http://bsaral.github.com/112/Less-Css/" targ
 	<button type="button" class="btn btn-mini btn-primary">Mini button</button>
 	<button type="button" class="btn btn-mini">Mini button</button>
 			 
+<br>
+<br>
 
 <img src="/images/button.png" name="resim" border="1" />
+<br>
+<br>
 
 ...vs vs vs .....
 
