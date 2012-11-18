@@ -21,7 +21,7 @@ Modern web tarayıcıları Chrome,Opera,Firefox 4+,Safari ve İnternet Explorer(
 <img src="/images/tarayıcı.png" name="resim" border="1" />
 
 
-<p><b>yapılması gerekenler<b></p>
+<p><b>yapılması gerekenler</b></p>
 
 Twitter-Bootstrapı <a href="https://github.com/twitter/bootstrap" target="_blank" > GİTHUB </a> sayfasından inidirin ve klasörün içine oluşturmak istediğiniz HTML sayfasını yerleştirin.
 İndirmiş oldugunuz bu depo içinde Bootstrap'ın önemli dosyaları bulunmaktadır.Bu dosyalardan yararlanabilmek için HTML sayfasına bunların include edilmesi gerekmektedir.
