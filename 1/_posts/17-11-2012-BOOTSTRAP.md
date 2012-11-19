@@ -4,7 +4,32 @@ title: BOOTSTRAP NEDİR?
 ---
 Web uygulamalarını ve web sitelerini daha hızlı,modern bir yapıyla oluşturulmasını sağlayan çok kodlamanın hazırlanmış halidir.
 
-CSS,HTML,formlar,düğmeler,tablolar,navigasyon,ızgaralar,uyarılar,açılır pencereler,sekmeler ve daha fazlasını arayanlar için tasarım dilinde en çok kullanılan framework uygulamasıdır.
+Bootstrap,Twitter'ın Apache 2 lisansıyla açık kaynak yaptığı CSS,HTML araç kiti.
+
+CSS tarafından LESS'i kullanıyor.CSS ve JS hazır halde bulunuyor.
+
+ için tasarım dilinde en çok kullanılan framework uygulamasıdır.
+
+<p><b>Neleri kapsıyor </b></p>
+	-Button groups 
+	-Button dropdowns 
+	-Navigational tabs, pills, and lists 
+	-Navbar 
+	-Labels 
+	-Badges 
+	-Page headers and hero unit 
+	-Thumbnails 
+	-Alerts 
+	-Progress bars 
+	-Modals 
+	-Dropdowns 
+	-Tooltips 
+	-Popovers 
+	-Accordion 
+	-Carousel 
+	-Typeahead 
+
+ve her geçen gün şaşırtıcı yeniliklerle geliyorlar. 
 
  - Bootstrap ile CSS'ye tam anlamıyla hakim olabilirsiniz.
 
@@ -26,7 +51,7 @@ Modern web tarayıcıları Chrome,Opera,Firefox 4+,Safari ve İnternet Explorer(
 Twitter-Bootstrapı <a href="https://github.com/twitter/bootstrap" target="_blank" > GİTHUB </a> sayfasından inidirin ve klasörün içine oluşturmak istediğiniz HTML sayfasını yerleştirin.
 İndirmiş oldugunuz bu depo içinde Bootstrap'ın önemli dosyaları bulunmaktadır.Bu dosyalardan yararlanabilmek için HTML sayfasına bunların include edilmesi gerekmektedir.
 
-<code>&lt;head&gt;&lt;/head&gt;</code>
+<code>&lt;head&gt; .... &lt;/head&gt;</code>
 
 etiketleri arasına 
 
@@ -158,6 +183,28 @@ daha fazlası için.
 - Ayrıca resmi sitesinde bulunan kodları daha sade şekilde yazmaya çalıştım.kodları için github depom (depomun gh-pages dalında)<a href="https://github.com/tugdev/bootstrap/tree/gh-pages" target="_blank" > buyrun </a>
 
 - Ve demolarını görmek için <a href="http://tugdev.github.com/bootstrap/" target="_blank" > buyrun </a>
+
+<p><b>kullanım alanlarından bazıları </b></p>
+ - Rails ve Bootstrap   <a href="http://railsapps.github.com/twitter-bootstrap-rails.html" target="_blank" > buyrun </a>
+ temalar  <a href="http://themeforest.net/search?utf8=%E2%9C%93&term=bootstrap" target="_blank" > buyrun </a>
+
+ - Jekyll-Bootstrap	 <a href="http://jekyllbootstrap.com/" target="_blank" > buyrun </a>
+
+ - backbone.js + Boostrap ile Örnek Uygulaması <a href="http://coenraets.org/blog/2012/02/sample-app-with-backbone-js-and-twitter-bootstrap/" target="_blank" > buyrun </a>
+
+
+      :	demosu <a href="http://coenraets.org/directory" target="_blank" > buyrun </a>
+	
+
+      :	github deposu <a href="https://github.com/ccoenraets/backbone-directory" target="_blank" > buyrun </a>
+	
+
+ - Bootstrap ile hazır sistem. <a href="http://jetstrap.com/" target="_blank" > http://jetstrap.com/ </a>
+
+ - bootstrap ile form yardımcıları  <a href="http://vincentlamanna.com/BootstrapFormHelpers/" target="_blank" > buyrun </a>
+ 			
+
+
 
 
 
