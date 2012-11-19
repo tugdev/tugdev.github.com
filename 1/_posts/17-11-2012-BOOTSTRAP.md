@@ -205,10 +205,10 @@ daha fazlası için.
  - backbone.js + Boostrap ile Örnek Uygulaması <a href="http://coenraets.org/blog/2012/02/sample-app-with-backbone-js-and-twitter-bootstrap/" target="_blank" > buyrun </a>
 
 
-      -	demosu <a href="http://coenraets.org/directory" target="_blank" > buyrun </a>
+   - demosu <a href="http://coenraets.org/directory" target="_blank" > buyrun </a>
 	
 
-      -	github deposu <a href="https://github.com/ccoenraets/backbone-directory" target="_blank" > buyrun </a>
+   - github deposu <a href="https://github.com/ccoenraets/backbone-directory" target="_blank" > buyrun </a>
 	
 
  - Bootstrap ile hazır sistem. <a href="http://jetstrap.com/" target="_blank" > http://jetstrap.com/ </a>
