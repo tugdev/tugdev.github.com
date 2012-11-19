@@ -167,7 +167,7 @@ Twitter Bootstrap, LESS'i (<a href="http://bsaral.github.com/112/Less-Css/" targ
 <br>
 <br>
 
-...vs.....
+vs...
 
 daha fazlası için.
 
