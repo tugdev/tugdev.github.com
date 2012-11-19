@@ -187,10 +187,19 @@ daha fazlası için.
 --
 
 <p><b>kullanım alanlarından bazıları </b></p>
- - Rails ve Bootstrap   <a href="http://railsapps.github.com/twitter-bootstrap-rails.html" target="_blank" > buyrun </a>
- temalar  <a href="http://themeforest.net/search?utf8=%E2%9C%93&term=bootstrap" target="_blank" > buyrun </a>
 
- - Jekyll-Bootstrap	 <a href="http://jekyllbootstrap.com/" target="_blank" > buyrun </a>
+ - Rails ve Bootstrap   <a href="http://railsapps.github.com/twitter-bootstrap-rails.html" target="_blank" > buyrun </a>
+ 
+	- <a href="http://railscasts.com/episodes/328-twitter-bootstrap-basics" target="_blank" > buyrun </a>
+
+	      - <a href="http://media.railscasts.com/assets/episodes/sources/328-twitter-bootstrap-basics.zip" target="_blank" >indirmek_için </a>
+
+	- <a href="https://github.com/seyhunak/twitter-bootstrap-rails" target="_blank" > buyrun </a>
+
+
+ 	- <a href="http://themeforest.net/search?utf8=%E2%9C%93&term=bootstrap" target="_blank" > temalar   </a>
+
+ - Jekyll-Bootstrap	<a href="http://jekyllbootstrap.com/" target="_blank" > buyrun </a>
 
  - backbone.js + Boostrap ile Örnek Uygulaması <a href="http://coenraets.org/blog/2012/02/sample-app-with-backbone-js-and-twitter-bootstrap/" target="_blank" > buyrun </a>
 
