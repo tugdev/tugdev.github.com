@@ -8,7 +8,7 @@ Bootstrap,Twitter'ın Apache 2 lisansıyla açık kaynak yaptığı CSS,HTML ara
 
 CSS tarafından LESS'i kullanıyor.CSS ve JS hazır halde bulunuyor.
 
- için tasarım dilinde en çok kullanılan framework uygulamasıdır.
+Tasarım dilinde en çok kullanılan framework uygulamasıdır.
 
 <p><b>Neleri kapsıyor </b></p>
 	-Button groups 
@@ -183,6 +183,8 @@ daha fazlası için.
 - Ayrıca resmi sitesinde bulunan kodları daha sade şekilde yazmaya çalıştım.kodları için github depom (depomun gh-pages dalında)<a href="https://github.com/tugdev/bootstrap/tree/gh-pages" target="_blank" > buyrun </a>
 
 - Ve demolarını görmek için <a href="http://tugdev.github.com/bootstrap/" target="_blank" > buyrun </a>
+
+--
 
 <p><b>kullanım alanlarından bazıları </b></p>
  - Rails ve Bootstrap   <a href="http://railsapps.github.com/twitter-bootstrap-rails.html" target="_blank" > buyrun </a>
