@@ -190,13 +190,13 @@ daha fazlası için.
 
  - Rails ve Bootstrap
 
-   - <a href="http://railsapps.github.com/twitter-bootstrap-rails.html" target="_blank" > buyrun </a>
+   - <a href="http://railsapps.github.com/twitter-bootstrap-rails.html" target="_blank" > twitter-bootstrap-rails </a>
  
-   - <a href="http://railscasts.com/episodes/328-twitter-bootstrap-basics" target="_blank" > buyrun </a>
+   - <a href="http://railscasts.com/episodes/328-twitter-bootstrap-basics" target="_blank" > railscasts </a>
 
-  	 - <a href="http://media.railscasts.com/assets/episodes/sources/328-twitter-bootstrap-basics.zip" target="_blank" > indirmek_icin </a>
+  	 - <a href="http://media.railscasts.com/assets/episodes/sources/328-twitter-bootstrap-basics.zip" target="_blank" > railscasts_indirmek_icin </a>
 
-   - <a href="https://github.com/seyhunak/twitter-bootstrap-rails" target="_blank" > buyrun </a>
+   - <a href="https://github.com/seyhunak/twitter-bootstrap-rails" target="_blank" > twitter-bootstrap-rails </a>
 
    - <a href="http://themeforest.net/search?utf8=%E2%9C%93&term=bootstrap" target="_blank" > temalar   </a>
 
@@ -213,7 +213,7 @@ daha fazlası için.
 
  - Bootstrap ile hazır sistem. <a href="http://jetstrap.com/" target="_blank" > http://jetstrap.com/ </a>
 
- - Bootstrap ile form yardımcıları  <a href="http://vincentlamanna.com/BootstrapFormHelpers/" target="_blank" > buyrun </a>
+ - Bootstrap ile form yardımcıları  <a href="http://vincentlamanna.com/BootstrapFormHelpers/" target="_blank" > BootstrapFormHelpers </a>
  			
 
 
