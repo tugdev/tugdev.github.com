@@ -7,10 +7,15 @@ Twitter Bootstrap Cms (web uygulamaları)için hızlı prototipleme ve varsayıl
 Bir önceki yazımda <a href="http://tugdev.github.com/111/BOOTSTRAP/" >Twitter-Bootstrap</a> hakkında bilgi vermiştim.
 
    Twitter Bootstrap javascript eklentileri ile birlikte geliyor. Ancak, sonunda, bazı ortak javascript eklentileri datepicker gibi,eksik bulabilirsiniz. Burada birçok yararlı araçlar, eklentiler ve Twitter Bootstrap için özel olarak oluşturulan temalardan VE javascript eklentilerinden de bahsedeceğiz.
+<br>
  
+<li><a href="#İCON">ÖZEL TWİTTER SİMGE SETLERİ</a></li><br>
+<li><a href="#"> BUTTONLAR</a></li><br>
+
 <br>
 
-<p><b>1)FamFamFam Özel Twitter Simge Setleri:</b></p>Yapmanız gereken çok basit. <a href:"http://favbulous.com/post/1006/create-custom-icons-for-twitter-bootstrap-easily">bu sayfadan </a> indirme yapınız.
+###<a id="İCON"> 1- ÖZEL TWİTTER SİMGE SETLERİ </a>
+Yapmanız gereken çok basit. <a href:"http://favbulous.com/post/1006/create-custom-icons-for-twitter-bootstrap-easily">bu sayfadan </a> indirme yapınız.
 
 yaptıgınız klasör içinde iconlara ait bir css dosyası buluncak bunu sayfanıza include ediniz ve eger gerekliyse iconların bulundugu png dosyasının yolunu değiştirniz.
 	
