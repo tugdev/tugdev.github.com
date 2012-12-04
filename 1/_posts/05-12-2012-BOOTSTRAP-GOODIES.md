@@ -4,7 +4,7 @@ title: BOOTSTRAP GOODİES
 ---
 Twitter Bootstrap Cms (web uygulamaları)için hızlı prototipleme ve varsayılan stil için güzel,donanımlı bir kütüphanedir.Popüler kullanıcı arayüzü bileşenleri ve etkileşimleri için basit ve esnek HTML, CSS ve Javascript bulunuyor.
 
-Bir önceki yazımda <a herf="http://tugdev.github.com/111/BOOTSTRAP/" >Twitter-Bootstrap</a> hakkında bilgi vermiştim.
+Bir önceki yazımda <a href="http://tugdev.github.com/111/BOOTSTRAP/" >Twitter-Bootstrap</a> hakkında bilgi vermiştim.
 
    Twitter Bootstrap javascript eklentileri ile birlikte geliyor. Ancak, sonunda, bazı ortak javascript eklentileri datepicker gibi,eksik bulabilirsiniz. Burada birçok yararlı araçlar, eklentiler ve Twitter Bootstrap için özel olarak oluşturulan temalardan VE javascript eklentilerinden de bahsedeceğiz.
  
@@ -16,11 +16,11 @@ yaptıgınız klasör içinde iconlara ait bir css dosyası buluncak bunu sayfan
 
 dosyasının yolunu değiştirniz.
 	
-	<code> &lt;button class="btn btn-danger"&gt;&lt;i class="cus-exclamation"&gt;&lt;/i&gt; Exclamation&lt;/button&gt; </code>
+<code> &lt;button class="btn btn-danger"&gt;&lt;i class="cus-exclamation"&gt;&lt;/i&gt; Exclamation&lt;/button&gt; </code>
 
-yukardaki örnekteki gibi kullanabilirsiniz.<a herf="http://favbulous.com/demo/twitter-bootstrap-custom-icons/"> demosu için  </a>
+yukardaki örnekteki gibi kullanabilirsiniz.<a href="http://favbulous.com/demo/twitter-bootstrap-custom-icons/"> demosu için  </a>
 <br>
-</br>
+
 
 	<div class="btn-toolbar">
 		<div class="btn-group">
