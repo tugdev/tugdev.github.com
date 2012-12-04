@@ -15,7 +15,7 @@ Bir önceki yazımda <a href="http://tugdev.github.com/111/BOOTSTRAP/" >Twitter-
 <br>
 
 ###<a id="İCON"> 1- ÖZEL TWİTTER SİMGE SETLERİ </a>
-Yapmanız gereken çok basit. <a href:"http://favbulous.com/post/1006/create-custom-icons-for-twitter-bootstrap-easily">bu sayfadan </a> indirme yapınız.
+Yapmanız gereken çok basit. <a href="http://favbulous.com/post/1006/create-custom-icons-for-twitter-bootstrap-easily"> bu sayfadan </a> indirme yapınız.
 
 yaptıgınız klasör içinde iconlara ait bir css dosyası buluncak bunu sayfanıza include ediniz ve eger gerekliyse iconların bulundugu png dosyasının yolunu değiştirniz.
 	
