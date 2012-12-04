@@ -20,7 +20,8 @@ dosyasının yolunu değiştirniz.
 
 yukardaki örnekteki gibi kullanabilirsiniz.<a herf="http://favbulous.com/demo/twitter-bootstrap-custom-icons/"> demosu için  </a>
 <br>
-<br>
+</br>
+
 	<div class="btn-toolbar">
 		<div class="btn-group">
 		 
