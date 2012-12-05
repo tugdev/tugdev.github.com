@@ -10,8 +10,8 @@ Bir önceki yazımda <a href="http://tugdev.github.com/111/BOOTSTRAP/" >Twitter-
 <br>
  
 <li><a href="#İCON">ÖZEL TWİTTER SİMGE SETLERİ</a></li><br>
-<li><a href="#"> BUTTONLAR</a></li><br>
-
+<li><a href="#DÜĞME"> BOOTSTRAP DÜĞMESİ</a></li><br>
+<li><a href="#STYLE">STYLE-BOOTSTRAP </a></li><br>
 <br>
 
 ###<a id="İCON"> 1- ÖZEL TWİTTER SİMGE SETLERİ </a>
@@ -86,4 +86,38 @@ yukardaki örnekteki gibi kullanabilirsiniz.<a href="http://favbulous.com/demo/t
 <img src="/images/icons2.png" name="resim" border="1" />
 <br>
 <br>
-devamı ...
+###<a id="DÜĞME"> 2- BOOTSTRAP DÜĞMESİ </a>
+Bu araç mevcut düğme stilini değiştirmek için özel bir düğme oluşturabilirsiniz.<a href="http://charliepark.org/bootstrap_buttons/">burada </a>sizin hassasiyetinize göre sağ tarafta oluşan classı css sayfanıza eklemek.
+
+örneğin ben <code>btn-tugdev</code> adında class oluştudum ve bunu css sayfama ekledim;
+<br>
+<br>
+	.btn-tugdev {
+	  background-color: hsl(0, 69%, 22%) !important;
+	  background-repeat: repeat-x;
+	  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#b42121", endColorstr="#5e1111");
+	  background-image: -khtml-gradient(linear, left top, left bottom, from(#b42121), to(#5e1111));
+	  background-image: -moz-linear-gradient(top, #b42121, #5e1111);
+	  background-image: -ms-linear-gradient(top, #b42121, #5e1111);
+	  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #b42121), color-stop(100%, #5e1111));
+	  background-image: -webkit-linear-gradient(top, #b42121, #5e1111);
+	  background-image: -o-linear-gradient(top, #b42121, #5e1111);
+	  background-image: linear-gradient(#b42121, #5e1111);
+	  border-color: #5e1111 #5e1111 hsl(0, 69%, 17%);
+	  color: #fff !important;
+	  text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.33);
+	  -webkit-font-smoothing: antialiased;
+	}
+<br>
+
+<code> &lt;button class="btn btn-tugdev"&gt;&lt;i class="cus-tux"&gt;&lt;/i&gt; linux&lt;/button&gt; </code>
+<br>
+<img src="/images/eski.png" name="resim" border="1" /> ve eklediğim class sonrası ilk=><img src="/images/yeni1.png" name="resim" border="1" />
+<br>tıklarken =><img src="/images/yeni2.png" name="resim" border="1" />
+<br>
+ve <a href="http://www.plugolabs.com/twitter-bootstrap-button-generator/">burda </a> ise istediğiniz button şeklini,rengini,iconunu kendiniz belirliyorsunuz ve size hazır kodunu gösteriyor.Tek yapmanız gereken sayfanızda buttonu yerleştirmek istediğiniz yere sağ tarafta çıkan kodu yerleştirmek :))
+<br>
+<br>
+###<a id="STYLE">3-STYLE-BOOTSTRAP </a>
+css dosyasını en baştan kendiniz yapmak istermisiniz.Bootstrapta gördüğünüz tüm özellikleri arkaplan renginden tutunda button rengine kadar css kodunuzu hazır oluşturmak için <a href="http://stylebootstrap.info/"> buyrun gökkuşağına:)) </a> 
+Bu web sitesi kendinize benzersiz tasarım oluşturmak için izin verir. Bu iyi bir arayüze sahip ve yeni stilinizi hızlı bir şekilde oluşturur.bu işlemi yaptıktan sonra,sayfanın el altında bulunan butona tıklayın ,tıkladıktan sonra yeni bir sayfa gelicek ve oluşturduğunuz css dosyanızı size verecek:)
