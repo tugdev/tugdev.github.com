@@ -92,28 +92,13 @@ Bu araç mevcut düğme stilini değiştirmek için özel bir düğme oluşturab
 örneğin ben <code>btn-tugdev</code> adında class oluştudum ve bunu css sayfama ekledim;
 <br>
 <br>
-	.btn-tugdev {
-	  background-color: hsl(0, 69%, 22%) !important;
-	  background-repeat: repeat-x;
-	  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#b42121", endColorstr="#5e1111");
-	  background-image: -khtml-gradient(linear, left top, left bottom, from(#b42121), to(#5e1111));
-	  background-image: -moz-linear-gradient(top, #b42121, #5e1111);
-	  background-image: -ms-linear-gradient(top, #b42121, #5e1111);
-	  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #b42121), color-stop(100%, #5e1111));
-	  background-image: -webkit-linear-gradient(top, #b42121, #5e1111);
-	  background-image: -o-linear-gradient(top, #b42121, #5e1111);
-	  background-image: linear-gradient(#b42121, #5e1111);
-	  border-color: #5e1111 #5e1111 hsl(0, 69%, 17%);
-	  color: #fff !important;
-	  text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.33);
-	  -webkit-font-smoothing: antialiased;
-	}
+	<img src="/images/class.png" name="resim" border="1" />
 <br>
 
 <code> &lt;button class="btn btn-tugdev"&gt;&lt;i class="cus-tux"&gt;&lt;/i&gt; linux&lt;/button&gt; </code>
 <br>
-<img src="/images/eski.png" name="resim" border="1" /> <br> ve eklediğim class sonrası ilk=><br><img src="/images/yeni1.png" name="resim" border="1" />
-<br>tıklarken =><br><img src="/images/yeni2.png" name="resim" border="1" />
+<img src="/images/eski.png" name="resim" border="1" /> <br> <img src="/images/yeni1.png" name="resim" border="1" />
+<br><img src="/images/yeni2.png" name="resim" border="1" />
 <br>
 ve <a href="http://www.plugolabs.com/twitter-bootstrap-button-generator/">burda </a> ise istediğiniz button şeklini,rengini,iconunu kendiniz belirliyorsunuz ve size hazır kodunu gösteriyor.Tek yapmanız gereken sayfanızda buttonu yerleştirmek istediğiniz yere sağ tarafta çıkan kodu yerleştirmek :))
 <br>
