@@ -97,7 +97,7 @@ Bu araç mevcut düğme stilini değiştirmek için özel bir düğme oluşturab
 
 <code> &lt;button class="btn btn-tugdev"&gt;&lt;i class="cus-tux"&gt;&lt;/i&gt; linux&lt;/button&gt; </code>
 <br>
-<img src="/images/yeni.png" name="resim" border="1" /> 
+<img src="/images/yeni.png" name="resim" border="1" /> <br> ve tıklarken butona <br> <img src="/images/yeni1.png" name="resim" border="1" />
 <br>
 <br>
 ve <a href="http://www.plugolabs.com/twitter-bootstrap-button-generator/">burda </a> ise istediğiniz button şeklini,rengini,iconunu kendiniz belirliyorsunuz ve size hazır kodunu gösteriyor.Tek yapmanız gereken sayfanızda buttonu yerleştirmek istediğiniz yere sağ tarafta çıkan kodu yerleştirmek :))
