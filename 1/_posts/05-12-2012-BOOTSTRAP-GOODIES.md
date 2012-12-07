@@ -112,7 +112,8 @@ Bu web sitesi kendinize benzersiz tasarım oluşturmak için izin verir. Bu iyi 
 <br>
 <br>
 ###<a id="COLOR"> 4- COLORPİCKER</a>
-Bootstrap stiline uyan bir colorpicker bulunuyor.Bu eklenti alanına veya herhangi bir öğe için renk seçici eklemenize izin verir ve birden fazla renk formatlarını destekler: hex, RGB, RGBA, hsl, HSLA . Bu eklentiyi kullanmak için <a href="http://www.eyecon.ro/bootstrap-colorpicker/" >bu sayfadan </a> dosyalarını indiriniz ve kendi sayfanıza include ediniz.
+Bootstrap stiline uyan bir colorpicker bulunuyor.Bu eklenti alanına veya herhangi bir öğe için renk seçici eklemenize izin verir ve birden fazla renk formatlarını destekler: hex, RGB, RGBA, hsl, HSLA . Bu eklentiyi kullanmak için <a href="http://www.eyecon.ro/bootstrap-colorpicker/" >bu sayfadan </a> dosyalarını indiriniz ve kendi sayfanıza include ediniz.js dosyalarının yanında js ile colorpickerı aramak lazım.<br>
+<code> $('.colorpicker').colorpicker() </code>
 <br>
 <br>
 	
@@ -128,9 +129,10 @@ Bootstrap stiline uyan bir colorpicker bulunuyor.Bu eklenti alanına veya herhan
 
 	<a href="#" class="btn small" id="cp4" data-color-format="hex" data-color="rgb(255, 255, 255)">
 	arkaplan rengini değiştir</a>
-<br><br>
-<p>js dosyalarının yanında js ile colorpickerı aramak lazım.<code> $('.colorpicker').colorpicker() </code> </p>
-<br><br>
+<br>
+<br>
+<br>
+<br>
 
 
 
