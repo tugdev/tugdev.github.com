@@ -15,6 +15,11 @@ Bir önceki yazımda <a href="http://tugdev.github.com/111/BOOTSTRAP/" >Twitter-
 <li><a href="#COLOR">COLORPİCKER</a></li><br>
 <li><a href="#DATA">DATAPİCKER</a></li><br>
 <li><a href="#WYSIWYG">WYSIWYG EDİTOR FOR BOOTSTRAP</a></li><br>
+<li><a href="#BOOTBOX">BOOTBOX-JS</a></li><br>
+<li><a href="#FONT">FONT AWESOME</a></li><br>
+<li><a href="#TEMA">TEMA VE STİLLERİ</a></li><br>
+
+
 
 
 <br>
@@ -159,6 +164,9 @@ Bootstrap stiline uyan bir colorpicker bulunuyor.Bu eklenti alanına veya herhan
 <img src="/images/colorpicker.png" name="resim" border="1" />
 <br><br>
 diğer yöntemlerinide bu<a href="http://www.eyecon.ro/bootstrap-colorpicker/" >adresten </a> görebilirsiniz.
+
+<br>
+ayrıca diğer bir colorpicer eklentisi için <a href="https://github.com/tkrotoff/jquery-simplecolorpicker"> bu adresten </a> bakabilirsiniz.gerçekten mükemmel:)
 <br>
 <br>
 ###<a id="DATA"> 5-DATAPİCKER </a>
@@ -272,7 +280,8 @@ diğer yöntemlerinide bu<a href="http://www.eyecon.ro/bootstrap-datepicker/" > 
 <br>
 
 ###<a id="WYSIWYG"> 6- WYSIWYG EDİTOR FOR BOOTSTRAP </a>
-Bootstrap-wysihtml5 <a href="https://github.com/xing/wysihtml5">wysihtml5</a> ve <a href="http://twitter.github.com/bootstrap/">Twitter Bootstrap </a>yardımıyla basit, güzel wysiwyg editörlerini oluşturmayı çok kolay bir hale getiren javascript eklentisidir.
+Bootstrap-wysihtml5 <a href="https://github.com/xing/wysihtml5">wysihtml5</a> ve <a href="http://twitter.github.com/bootstrap/">Twitter Bootstrap </a>yardımıyla basit, güzel wysiwyg editörlerini oluşturmayı çok kolay bir hale getiren javascript eklentisidir.<br>
+
 Kullanılıcaklar:)
 <br>
 
@@ -307,5 +316,33 @@ yukarıdaki bağlantıları sayfamıza include ettikten sonra
 <br>
 <br>
 
+###<a id="BOOTBOX"> 7-BOOTBOX-JS </a>
+Bootbox.js Twitter'ın Bootstrap modellerini kullanarak basit programlı iletişim kutuları oluşturmaya olanak sağlayan küçük bir JavaScript kütüphanesi.küçük dendiğine bakmayın çok iyi işler başarmış. <a href"http://bootboxjs.com/">buradan</a> ulaşabilirsiniz.
+(devamı...)
 
 
+<br>
+<br>
+###<a id="FONT"> 8-FONT AWESOME </a>
+SVG tabanlı yazı tipi simgeleri ile mevcut simgeleri büyütmek için kullanılır..<br>
+<a href="http://fortawesome.github.com/Font-Awesome/"> bu adresten </a> içeriğine bakabilirsiniz.
+<br>
+<br>
+### <a id="TEMA">9-TEMA VE STİLLERİ </a>
+<br>
+- jQuery UI widget Twitter Bootstrap'a güzellik getiriyor.<a href="http://addyosmani.github.com/jquery-ui-bootstrap/">jQuery UI widget Twitter Bootstrap</a>
+
+- CSS stilleri indirerek kolayca Twitter bootstrap tarzını değiştirin.<a href="http://bootswatch.com/">CSS stilleri-Twitter bootstrap</a>
+
+- Tipik facebook görünüm tarzı için temel CSS ve HTML içerir. <a href="http://ckrack.github.com/fbootstrapp/">facebook-bootstrap</a>
+
+- Twitter Bootstrap için Koyu Tema.<a href="http://danneu.com/darkstrap/darkstrap.html#">demo</a> ve <a href="http://danneu.com/posts/4-darkstrap-css-a-dark-theme-for-twitter-bootstrap-2">tema</a>
+
+- temaları, donanımları ve diğer güzellikleri ile Twitter Bootstrap'ın tam bir sürümü.incelemenizi kesinlikle tavsiye ederim.
+  - <a href="http://ajkochanowicz.github.com/Kickstrap/index.html">anasayfa</a>
+  - <a href="http://getkickstrap.com/apps/">uygulamalar</a>
+  - <a href="http://getkickstrap.com/themes/">temalar</a>
+  - <a href="http://getkickstrap.com/docs/1.1/first-steps/">döküman</a>
+  - <a href="http://getkickstrap.com/docs/1.2/extend/">eklenti geliştirme</a>
+<br>
+<br> 
