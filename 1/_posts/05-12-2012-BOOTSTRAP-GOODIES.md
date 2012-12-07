@@ -2,11 +2,11 @@
 layout: post
 title: BOOTSTRAP GOODİES
 ---
-Twitter Bootstrap Cms (web uygulamaları)için hızlı prototipleme ve varsayılan stil için güzel,donanımlı bir kütüphanedir.Popüler kullanıcı arayüzü bileşenleri ve etkileşimleri için basit ve esnek HTML, CSS ve Javascript bulunuyor.
+Twitter Bootstrap Cms (web uygulamaları)için hızlı prototipleme ve varsayılan stil için güzel,donanımlı bir kütüphanedir.Popüler kullanıcı arayüzü bileşenleri ve etkileşimleri için HTML, CSS ve Javascript bulunuyor.
 
 Bir önceki yazımda <a href="http://tugdev.github.com/111/BOOTSTRAP/" >Twitter-Bootstrap</a> hakkında bilgi vermiştim.
 
-   Twitter Bootstrap javascript eklentileri ile birlikte geliyor. Ancak, sonunda, bazı ortak javascript eklentileri datepicker gibi,eksik bulabilirsiniz. Burada birçok yararlı araçlar, eklentiler ve Twitter Bootstrap için özel olarak oluşturulan temalardan VE javascript eklentilerinden de bahsedeceğiz.
+   Twitter Bootstrap javascript eklentileri ile birlikte geliyor. Ancak, sonunda, bazı ortak javascript eklentilerini datepicker gibi,eksik bulabilirsiniz. Burada birçok yararlı araçlar, eklentiler ve Twitter Bootstrap için özel olarak oluşturulan temalardan ve javascript eklentilerinden de bahsedeceğiz.
 <br>
  
 <li><a href="#İCON">ÖZEL TWİTTER SİMGE SETLERİ</a></li><br>
@@ -116,11 +116,11 @@ ve <a href="http://www.plugolabs.com/twitter-bootstrap-button-generator/">burda 
 <br>
 ###<a id="STYLE">3-STYLE-BOOTSTRAP </a>
 css dosyasını en baştan kendiniz yapmak istermisiniz.Bootstrapta gördüğünüz tüm özellikleri arkaplan renginden tutunda button rengine kadar css kodunuzu hazır oluşturmak için <a href="http://stylebootstrap.info/"> buyrun gökkuşağına:)) </a> 
-Bu web sitesi kendinize benzersiz tasarım oluşturmak için izin verir. Bu iyi bir arayüze sahip ve yeni stilinizi hızlı bir şekilde oluşturur.bu işlemi yaptıktan sonra,sayfanın el altında bulunan butona tıklayın ,tıkladıktan sonra yeni bir sayfa gelicek ve oluşturduğunuz css dosyanızı size verecek:)
+Bu web sitesi kendinize özgü tasarım oluşturmanıza izin verir.Güzel bir arayüze sahip ve stilinizi hızlı bir şekilde oluşturur.bu işlemi yaptıktan sonra,sayfanın en altında bulunan butona tıklayın ,tıkladıktan sonra yeni bir sayfa gelicek ve oluşturduğunuz css dosyanızı size verecek:)
 <br>
 <br>
 ###<a id="COLOR"> 4- COLORPİCKER</a>
-Bootstrap stiline uyan bir colorpicker bulunuyor.Bu eklenti alanına veya herhangi bir öğe için renk seçici eklemenize izin verir ve birden fazla renk formatlarını destekler: hex, RGB, RGBA, hsl, HSLA . Bu eklentiyi kullanmak için <a href="http://www.eyecon.ro/bootstrap-colorpicker/" >bu sayfadan </a> dosyalarını indiriniz ve kendi sayfanıza include ediniz.js dosyalarının yanında js ile colorpickerı aramak lazım.<br>
+Bootstrap stiline uyan bir colorpicker bulunuyor.Bu eklenti kendi alanına veya herhangi bir öğeye renk seçici eklemenize izin verir ve birden fazla renk formatlarını destekler: hex, RGB, RGBA, hsl, HSLA . Bu eklentiyi kullanmak için <a href="http://www.eyecon.ro/bootstrap-colorpicker/" >bu sayfadan </a> dosyalarını indiriniz ve kendi sayfanıza include ediniz.js dosyalarının yanında js ile colorpickerı aramak lazım.<br>
 <code> $('.colorpicker').colorpicker() </code>
 <br>
 <br>
@@ -318,7 +318,7 @@ yukarıdaki bağlantıları sayfamıza include ettikten sonra
 
 ###<a id="BOOTBOX"> 7-BOOTBOX-JS </a>
 Bootbox.js Twitter'ın Bootstrap modellerini kullanarak basit programlı iletişim kutuları oluşturmaya olanak sağlayan küçük bir JavaScript kütüphanesi.küçük dendiğine bakmayın çok iyi işler başarmış. <a href="http://bootboxjs.com/">buradan</a> ulaşabilirsiniz.
-(devamı...)
+"***"
 
 
 <br>
@@ -346,3 +346,5 @@ SVG tabanlı yazı tipi simgeleri ile mevcut simgeleri büyütmek için kullanı
   - <a href="http://getkickstrap.com/docs/1.2/extend/">eklenti geliştirme</a>
 <br>
 <br> 
+
+ve diğer js eklentileri için <a href="http://www.queness.com/post/13029/extend-twitter-bootstrap-javascript-plugins">bu sayfaya</a> bakınız.
