@@ -129,8 +129,11 @@ Bootstrap stiline uyan bir colorpicker bulunuyor.Bu eklenti alanına veya herhan
 	<a href="#" class="btn small" id="cp4" data-color-format="hex" data-color="rgb(255, 255, 255)">
 	arkaplan rengini değiştir</a>
 <br><br>
-js dosyalarının yanında js ile colorpickerı aramak lazım.<code> $('.colorpicker').colorpicker() </code> 
+<p>js dosyalarının yanında js ile colorpickerı aramak lazım.<code> $('.colorpicker').colorpicker() </code> </p>
 <br><br>
+
+
+
 	<script>
 		$(function(){
 			window.prettyPrint && prettyPrint()
