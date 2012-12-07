@@ -274,9 +274,10 @@ diğer yöntemlerinide bu<a href="http://www.eyecon.ro/bootstrap-datepicker/" > 
 ###<a id="WYSIWYG"> 6- WYSIWYG EDİTOR FOR BOOTSTRAP </a>
 Bootstrap-wysihtml5 <a href="https://github.com/xing/wysihtml5">wysihtml5</a> ve <a href="http://twitter.github.com/bootstrap/">Twitter Bootstrap </a>yardımıyla basit, güzel wysiwyg editörlerini oluşturmayı çok kolay bir hale getiren javascript eklentisidir.
 Kullanılıcaklar:)
-	-<a href="https://raw.github.com/jhollingworth/bootstrap-wysihtml5/master/src/bootstrap-wysihtml5.js">bootstrap-wysihtml5.js</a>
-	-<a href="https://raw.github.com/jhollingworth/bootstrap-wysihtml5/master/src/bootstrap-wysihtml5.css">bootstrap-wysihtml5.css</a>
-	-<a href="http://jhollingworth.github.com/bootstrap-wysihtml5/lib/js/wysihtml5-0.3.0.js">wysihtml5-0.3.0.js</a>
+
+- <a href="https://raw.github.com/jhollingworth/bootstrap-wysihtml5/master/src/bootstrap-wysihtml5.js">bootstrap-wysihtml5.js</a>
+- <a href="https://raw.github.com/jhollingworth/bootstrap-wysihtml5/master/src/bootstrap-wysihtml5.css">bootstrap-wysihtml5.css</a>
+- <a href="http://jhollingworth.github.com/bootstrap-wysihtml5/lib/js/wysihtml5-0.3.0.js">wysihtml5-0.3.0.js</a>
 <br>
 yukarıdaki bağlantıları sayfamıza include ettikten sonra 
 <code>  $('.textarea').wysihtml5();  </code> yazınız.
