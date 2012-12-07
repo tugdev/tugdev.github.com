@@ -317,7 +317,7 @@ yukarıdaki bağlantıları sayfamıza include ettikten sonra
 <br>
 
 ###<a id="BOOTBOX"> 7-BOOTBOX-JS </a>
-Bootbox.js Twitter'ın Bootstrap modellerini kullanarak basit programlı iletişim kutuları oluşturmaya olanak sağlayan küçük bir JavaScript kütüphanesi.küçük dendiğine bakmayın çok iyi işler başarmış. <a href"http://bootboxjs.com/">buradan</a> ulaşabilirsiniz.
+Bootbox.js Twitter'ın Bootstrap modellerini kullanarak basit programlı iletişim kutuları oluşturmaya olanak sağlayan küçük bir JavaScript kütüphanesi.küçük dendiğine bakmayın çok iyi işler başarmış. <a href="http://bootboxjs.com/">buradan</a> ulaşabilirsiniz.
 (devamı...)
 
 
