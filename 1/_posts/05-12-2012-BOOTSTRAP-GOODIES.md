@@ -115,12 +115,10 @@ Bu web sitesi kendinize benzersiz tasarım oluşturmak için izin verir. Bu iyi 
 Bootstrap stiline uyan bir colorpicker bulunuyor.Bu eklenti alanına veya herhangi bir öğe için renk seçici eklemenize izin verir ve birden fazla renk formatlarını destekler: hex, RGB, RGBA, hsl, HSLA . Bu eklentiyi kullanmak için <a href="http://www.eyecon.ro/bootstrap-colorpicker/" >bu sayfadan </a> dosyalarını indiriniz ve kendi sayfanıza include ediniz.
 <br>
 <br>
+	
+
 	<input type="text" class="span1" value="#8fff00" id="cp1" > 
-
-
 	<input type="text" class="span3" value="rgb(0,194,255,0.78)" id="cp2" data-color-format="rgba" >
-
-
 
 	<div class="input-append color" data-color="rgb(255, 146, 180)" data-color-format="rgb" id="cp3">
 		<input type="text" class="span2" value="" readonly >
@@ -128,7 +126,8 @@ Bootstrap stiline uyan bir colorpicker bulunuyor.Bu eklenti alanına veya herhan
 	</div>
 
 
-	<a href="#" class="btn small" id="cp4" data-color-format="hex" data-color="rgb(255, 255, 255)">arkaplan rengini değiştir</a>
+	<a href="#" class="btn small" id="cp4" data-color-format="hex" data-color="rgb(255, 255, 255)">
+	arkaplan rengini değiştir</a>
 <br>
 <br> js dosyalarının yanıda js ile colorpickerı aramak lazım.<code> $('.colorpicker').colorpicker() </code> benim örneğe devam edecek olursak 
 <br>
