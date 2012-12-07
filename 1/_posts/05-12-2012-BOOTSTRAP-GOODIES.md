@@ -16,7 +16,7 @@ Bir önceki yazımda <a href="http://tugdev.github.com/111/BOOTSTRAP/" >Twitter-
 <li><a href="#DATA">DATAPİCKER</a></li><br>
 <li><a href="#WYSIWYG">WYSIWYG EDİTOR FOR BOOTSTRAP</a></li><br>
 <li><a href="#BOOTBOX">BOOTBOX-JS</a></li><br>
-<li><a href="#FONT">FONT AWESOME</a></li><br>
+<li><a href="#FONT">YAZI TİPİ</a></li><br>
 <li><a href="#TEMA">TEMA VE STİLLERİ</a></li><br>
 
 
@@ -318,12 +318,12 @@ yukarıdaki bağlantıları sayfamıza include ettikten sonra
 
 ###<a id="BOOTBOX"> 7-BOOTBOX-JS </a>
 Bootbox.js Twitter'ın Bootstrap modellerini kullanarak basit programlı iletişim kutuları oluşturmaya olanak sağlayan küçük bir JavaScript kütüphanesi.küçük dendiğine bakmayın çok iyi işler başarmış. <a href="http://bootboxjs.com/">buradan</a> ulaşabilirsiniz.
-"***"
+"***###"
 
 
 <br>
 <br>
-###<a id="FONT"> 8-FONT AWESOME </a>
+###<a id="FONT"> 8-YAZI TİPİ </a>
 SVG tabanlı yazı tipi simgeleri ile mevcut simgeleri büyütmek için kullanılır..<br>
 <a href="http://fortawesome.github.com/Font-Awesome/"> bu adresten </a> içeriğine bakabilirsiniz.
 <br>
