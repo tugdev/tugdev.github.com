@@ -14,6 +14,9 @@ Bir önceki yazımda <a href="http://tugdev.github.com/111/BOOTSTRAP/" >Twitter-
 <li><a href="#STYLE">STYLE-BOOTSTRAP </a></li><br>
 <li><a href="#COLOR">COLORPİCKER</a></li><br>
 <li><a href="#DATA">DATAPİCKER</a></li><br>
+<li><a href="#WYSIWYG">WYSIWYG EDİTOR FOR BOOTSTRAP</a></li><br>
+
+
 <br>
 
 ###<a id="İCON"> 1- ÖZEL TWİTTER SİMGE SETLERİ </a>
@@ -264,5 +267,39 @@ Bu eklenti alanına veya herhangi bir öğe için datapicker eklemenize izin ver
 <br>
 <img src="/images/datapicker.png" name="resim" border="1" />
 <br><br>
-diğer yöntemlerinide bu<a href="http://www.eyecon.ro/bootstrap-datepicker/" >adresten </a> görebilirsiniz.
+diğer yöntemlerinide bu<a href="http://www.eyecon.ro/bootstrap-datepicker/" > adresten </a> görebilirsiniz.
 <br>
+<br>
+
+###<a id="WYSIWYG"> 6- WYSIWYG EDİTOR FOR BOOTSTRAP </a>
+Bootstrap-wysihtml5 <a href="https://github.com/xing/wysihtml5">wysihtml5</a> ve <a href="http://twitter.github.com/bootstrap/">Twitter Bootstrap </a>yardımıyla basit, güzel wysiwyg editörlerini oluşturmayı çok kolay bir hale getiren javascript eklentisidir.
+Kullanılıcaklar:)
+	-<a href="https://raw.github.com/jhollingworth/bootstrap-wysihtml5/master/src/bootstrap-wysihtml5.js">bootstrap-wysihtml5.js</a>
+	-<a href="https://raw.github.com/jhollingworth/bootstrap-wysihtml5/master/src/bootstrap-wysihtml5.css">bootstrap-wysihtml5.css</a>
+	-<a href="http://jhollingworth.github.com/bootstrap-wysihtml5/lib/js/wysihtml5-0.3.0.js">wysihtml5-0.3.0.js</a>
+<br>
+yukarıdaki bağlantıları sayfamıza include ettikten sonra 
+<code>  $('.textarea').wysihtml5();  </code> yazınız.
+<br>
+<br>
+
+
+	<textarea class="textarea" placeholder="Enter text ..." style="width: 810px; height: 200px"></textarea>
+
+
+<br>
+<br>
+
+
+	<script>
+		$('.textarea').wysihtml5();
+	</script>
+
+<br>
+<br>
+<img src="/images/wys-editörü.png" name="resim" border="1" />
+<br>
+<br>
+
+
+
