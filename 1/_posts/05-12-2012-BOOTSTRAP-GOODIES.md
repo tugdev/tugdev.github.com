@@ -182,8 +182,8 @@ Bu eklenti alanına veya herhangi bir öğe için datapicker eklemenize izin ver
 	</div>
 
 
-	<div class="input-append date" id="dpMonths" data-date="102/2012" data-date-format="mm/yyyy" data-date-viewmode="years"
-	data-date-minviewmode="months">
+	<div class="input-append date" id="dpMonths" data-date="102/2012" data-date-format="mm/yyyy" 
+	data-date-viewmode="years" data-date-minviewmode="months">
 		<input class="span2" size="16" type="text" value="02/2012" readonly>
 		<span class="add-on"><i class="icon-calendar"></i></span>
 	</div>
@@ -193,18 +193,18 @@ Bu eklenti alanına veya herhangi bir öğe için datapicker eklemenize izin ver
 	</div>
 		<table class="table">
 			<thead>
-				<tr>
-					<th>Start date<a href="#" class="btn small" id="dp4" data-date-format="yyyy-mm-dd" 
+			<tr>
+			<th>Start date<a href="#" class="btn small" id="dp4" data-date-format="yyyy-mm-dd" 
 	data-date="2012-02-20">Change</a></th>
-					<th>End date<a href="#" class="btn small" id="dp5" data-date-format="yyyy-mm-dd"
+			<th>End date<a href="#" class="btn small" id="dp5" data-date-format="yyyy-mm-dd"
  	data-date="2012-02-25">Change</a></th>
-				</tr>
+			</tr>
 			</thead>
 			<tbody>
-				<tr>
-					<td id="startDate">2012-02-20</td>
-					<td id="endDate">2012-02-25</td>
-				</tr>
+			<tr>
+			<td id="startDate">2012-02-20</td>
+			<td id="endDate">2012-02-25</td>
+			</tr>
 			</tbody>
 			</table>
 
@@ -234,7 +234,8 @@ Bu eklenti alanına veya herhangi bir öğe için datapicker eklemenize izin ver
 		$('#dp4').datepicker()
 			.on('changeDate', function(ev){
 				if (ev.date.valueOf() > endDate.valueOf()){
-					$('#alert').show().find('strong').text('The start date can not be greater then the end date');
+					$('#alert').show().find('strong')
+					.text('The start date can not be greater then the end date');
 				} else {
 					$('#alert').hide();
 					startDate = new Date(ev.date);
@@ -245,7 +246,8 @@ Bu eklenti alanına veya herhangi bir öğe için datapicker eklemenize izin ver
 		$('#dp5').datepicker()
 			.on('changeDate', function(ev){
 				if (ev.date.valueOf() < startDate.valueOf()){
-					$('#alert').show().find('strong').text('The end date can not be less then the start date');
+					$('#alert').show().find('strong')
+					.text('The end date can not be less then the start date');
 				} else {
 					$('#alert').hide();
 					endDate = new Date(ev.date);
