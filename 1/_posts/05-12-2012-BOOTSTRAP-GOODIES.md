@@ -13,7 +13,7 @@ Bir önceki yazımda <a href="http://tugdev.github.com/111/BOOTSTRAP/" >Twitter-
 <li><a href="#DÜĞME"> BOOTSTRAP DÜĞMESİ</a></li><br>
 <li><a href="#STYLE">STYLE-BOOTSTRAP </a></li><br>
 <li><a href="#COLOR">COLORPİCKER</a></li><br>
-
+<li><a href="#DATA">DATAPİCKER</a></li><br>
 <br>
 
 ###<a id="İCON"> 1- ÖZEL TWİTTER SİMGE SETLERİ </a>
@@ -155,4 +155,112 @@ Bootstrap stiline uyan bir colorpicker bulunuyor.Bu eklenti alanına veya herhan
 <br>
 <img src="/images/colorpicker.png" name="resim" border="1" />
 <br><br>
+diğer yöntemlerinide bu<a href="http://www.eyecon.ro/bootstrap-colorpicker/" >adresten </a> görebilirsiniz.
+<br>
+<br>
+###<a id="DATA"> 5-DATAPİCKER </a>
+Bu eklenti alanına veya herhangi bir öğe için datapicker eklemenize izin verir.Formatları:dd, d, mm, m, yyyy, yy . Bu eklentiyi kullanmak için <a href="http://www.eyecon.ro/bootstrap-datepicker/" >bu sayfadan </a> dosyalarını indiriniz ve kendi sayfanıza include ediniz.js dosyalarının yanında js ile datapickerı aramak lazım.<br>
+<code> $('.datepicker').datepicker() </code>
+<br>
+<br>
+<br>
 
+
+
+
+
+	<input type="text" class="span2" value="02-16-2012" id="dp1" >
+
+
+	<input type="text" class="span2" value="02/16/12" data-date-format="mm/dd/yy" id="dp2" >
+
+
+
+	<div class="input-append date" id="dp3" data-date="12-02-2012" data-date-format="dd-mm-yyyy">
+		<input class="span2" size="16" type="text" value="12-02-2012" readonly>
+		<span class="add-on"><i class="icon-calendar"></i></span>
+	</div>
+
+
+	<div class="input-append date" id="dpMonths" data-date="102/2012" data-date-format="mm/yyyy" data-date-viewmode="years"
+	data-date-minviewmode="months">
+		<input class="span2" size="16" type="text" value="02/2012" readonly>
+		<span class="add-on"><i class="icon-calendar"></i></span>
+	</div>
+
+	<div class="alert alert-error" id="alert">
+		<strong>hata var tarihi değiştirin!</strong>
+	</div>
+		<table class="table">
+			<thead>
+				<tr>
+					<th>Start date<a href="#" class="btn small" id="dp4" data-date-format="yyyy-mm-dd" 
+	data-date="2012-02-20">Change</a></th>
+					<th>End date<a href="#" class="btn small" id="dp5" data-date-format="yyyy-mm-dd"
+ 	data-date="2012-02-25">Change</a></th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td id="startDate">2012-02-20</td>
+					<td id="endDate">2012-02-25</td>
+				</tr>
+			</tbody>
+			</table>
+
+
+
+
+<br>
+<br>
+
+
+
+	<script>
+	$(function(){
+		window.prettyPrint && prettyPrint();
+		$('#dp1').datepicker({
+			format: 'mm-dd-yyyy'
+		});
+		$('#dp2').datepicker();
+		$('#dp3').datepicker();
+		$('#dp3').datepicker();
+		$('#dpYears').datepicker();
+		$('#dpMonths').datepicker();
+			
+			
+		var startDate = new Date(2012,1,20);
+		var endDate = new Date(2012,1,25);
+		$('#dp4').datepicker()
+			.on('changeDate', function(ev){
+				if (ev.date.valueOf() > endDate.valueOf()){
+					$('#alert').show().find('strong').text('The start date can not be greater then the end date');
+				} else {
+					$('#alert').hide();
+					startDate = new Date(ev.date);
+					$('#startDate').text($('#dp4').data('date'));
+				}
+				$('#dp4').datepicker('hide');
+			});
+		$('#dp5').datepicker()
+			.on('changeDate', function(ev){
+				if (ev.date.valueOf() < startDate.valueOf()){
+					$('#alert').show().find('strong').text('The end date can not be less then the start date');
+				} else {
+					$('#alert').hide();
+					endDate = new Date(ev.date);
+					$('#endDate').text($('#dp5').data('date'));
+				}
+				$('#dp5').datepicker('hide');
+			});
+	});
+	</script>
+
+
+
+<br>
+<br>
+<img src="/images/datapicker.png" name="resim" border="1" />
+<br><br>
+diğer yöntemlerinide bu<a href="http://www.eyecon.ro/bootstrap-datepicker/" >adresten </a> görebilirsiniz.
+<br>
