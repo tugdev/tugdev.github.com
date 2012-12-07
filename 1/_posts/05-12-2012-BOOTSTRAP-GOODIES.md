@@ -12,6 +12,8 @@ Bir önceki yazımda <a href="http://tugdev.github.com/111/BOOTSTRAP/" >Twitter-
 <li><a href="#İCON">ÖZEL TWİTTER SİMGE SETLERİ</a></li><br>
 <li><a href="#DÜĞME"> BOOTSTRAP DÜĞMESİ</a></li><br>
 <li><a href="#STYLE">STYLE-BOOTSTRAP </a></li><br>
+<li><a href="#COLOR">COLORPİCKER</a></li><br>
+
 <br>
 
 ###<a id="İCON"> 1- ÖZEL TWİTTER SİMGE SETLERİ </a>
@@ -107,3 +109,46 @@ ve <a href="http://www.plugolabs.com/twitter-bootstrap-button-generator/">burda 
 ###<a id="STYLE">3-STYLE-BOOTSTRAP </a>
 css dosyasını en baştan kendiniz yapmak istermisiniz.Bootstrapta gördüğünüz tüm özellikleri arkaplan renginden tutunda button rengine kadar css kodunuzu hazır oluşturmak için <a href="http://stylebootstrap.info/"> buyrun gökkuşağına:)) </a> 
 Bu web sitesi kendinize benzersiz tasarım oluşturmak için izin verir. Bu iyi bir arayüze sahip ve yeni stilinizi hızlı bir şekilde oluşturur.bu işlemi yaptıktan sonra,sayfanın el altında bulunan butona tıklayın ,tıkladıktan sonra yeni bir sayfa gelicek ve oluşturduğunuz css dosyanızı size verecek:)
+<br>
+<br>
+###<a id="COLOR"> 4- COLORPİCKER</a>
+Bootstrap stiline uyan bir colorpicker bulunuyor.Bu eklenti alanına veya herhangi bir öğe için renk seçici eklemenize izin verir ve birden fazla renk formatlarını destekler: hex, RGB, RGBA, hsl, HSLA . Bu eklentiyi kullanmak için <a href="http://www.eyecon.ro/bootstrap-colorpicker/" >bu sayfadan </a> dosyalarını indiriniz ve kendi sayfanıza include ediniz.
+<br>
+<br>
+	<input type="text" class="span1" value="#8fff00" id="cp1" > 
+
+
+	<input type="text" class="span3" value="rgb(0,194,255,0.78)" id="cp2" data-color-format="rgba" >
+
+
+
+	<div class="input-append color" data-color="rgb(255, 146, 180)" data-color-format="rgb" id="cp3">
+		<input type="text" class="span2" value="" readonly >
+		<span class="add-on"><i style="background-color: rgb(255, 146, 180)"></i></span>
+	</div>
+
+
+	<a href="#" class="btn small" id="cp4" data-color-format="hex" data-color="rgb(255, 255, 255)">arkaplan rengini değiştir</a>
+<br>
+<br> js dosyalarının yanıda js ile colorpickerı aramak lazım.<code> $('.colorpicker').colorpicker() </code> benim örneğe devam edecek olursak 
+<br>
+	<script>
+		$(function(){
+			window.prettyPrint && prettyPrint()
+			$('#cp1').colorpicker({
+				format: 'hex'
+			});
+			$('#cp2').colorpicker();
+			$('#cp3').colorpicker();
+			var bodyStyle = $('body')[0].style;
+			$('#cp4').colorpicker().on('changeColor', function(ev){
+			bodyStyle.backgroundColor = ev.color.toHex();
+			});
+
+		});
+	</script>
+<br>
+<br>
+<img src="/images/colorpicker.png" name="resim" border="1" />
+<br><br>
+
