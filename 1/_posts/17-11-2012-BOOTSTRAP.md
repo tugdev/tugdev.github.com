@@ -215,9 +215,16 @@ daha fazlası için.
 
  - Bootstrap ile form yardımcıları  <a href="http://vincentlamanna.com/BootstrapFormHelpers/" target="_blank" > BootstrapFormHelpers </a>
  			
+ - Kendi formunuzu kendiniz oluşturun <a href="http://bootstrap-forms.heroku.com/" target="_blank">bootstrap-forms </a>
 
-
-
+<br>
+<br>
+(bootstrap-forms örneği)
+<br>
+<br>
+<img src="/images/bootstrap-forms.png" name="resim" border="1" />
+<br>
+<br>
 
 
 
