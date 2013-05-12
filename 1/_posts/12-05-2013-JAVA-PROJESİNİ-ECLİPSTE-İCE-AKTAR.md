@@ -1,8 +1,8 @@
 ---
 layout: post
-title: JAVA PROJESİNİ ECLİPSTE İCE AKTAR
+title:  Java (Eclipse) ile yazılmış bir projeyi Eclips'te içe aktarmak 
 ---
-      <b> Java (Eclipse) ile yazılmış bir projeyi Eclips'te içe aktarmak </b>
+      Java (Eclipse) ile yazılmış bir projeyi Eclips'te içe aktarmak 
   Varolan java projenizi workspace'e atın ve Eclipse'i açın.<b>File</b> menüsünden <b>import</b>'a basın.
 Sonra açılan pencerede <b>General</b> seçeneğinde açılan listede <b>Existing Project into Workspace</b>'yi 
 seçtikten sonra <b>Next</b> butonuna tıklayın.<b>Select root directory</b> yazan yere <b>Browse</b> butonundan projemizin 
