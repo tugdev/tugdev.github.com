@@ -28,7 +28,7 @@ Bulunduğun dizinde CTRL+H yaparsan gizli dosyaları görebilirsin.
   - git commit -a -m "açıklama"
   - git push origin master
 - depo klonlama işlemi yapılırken
-  - git clone <SSH clone URL 'sini yapıştır>
+  - git clone SSH clone URL 'sini yapıştır
 <br>
 <br> 
 
