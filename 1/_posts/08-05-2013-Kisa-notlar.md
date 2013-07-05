@@ -20,8 +20,8 @@ Bulunduğun dizinde CTRL+H yaparsan gizli dosyaları görebilirsin.
 2)- Başlat menüsünden <code> Git Bash </code> aç komutlarını burda yazacaksın.
 3)- <code> ssh </code> oluşturmayı unutma. git bash kabuguna <code> ssh-keygen </code> yaz ve kişisel klasörümüzün(benim için tugdev) içinde <code>.ssh </code> klasörünün altında <code> id_rsa.pub </code> dosyasının içeriğini github'da <code> SSH Keys </code> e yapıştır.
 4)- kim olduğunu github'a tanıtman lazım.Bunun için;
-	git config --global user.email "mailadresi@example.com"
-	git config --global user.name "kullanıcı adı"
+  - git config --global user.email "mailadresi@example.com"
+  - git config --global user.name "kullanıcı adı"
 	
 - git komutlarından bazıları (depoya herhangi dosya gönderimi için)
   - git add *
