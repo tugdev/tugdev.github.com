@@ -33,7 +33,7 @@ ve her geçen gün şaşırtıcı yeniliklerle geliyorlar.
 
  - Bootstrap ile CSS'ye tam anlamıyla hakim olabilirsiniz.
 
- - Bootstrap <a href="https://github.com/twitter/bootstrap" target="_blank" > GİTHUB </a> tarafından açık kaynak olarak geliştirilmektedir.
+ - Bootstrap <a href="https://github.com/twitter/bootstrap" target="_blank" > GİTHUB </a> tarafından açık kaynak olarak barındırılmaktadır.
 
  - Bootstrap HTML5'in tüm özelliklerini destekler.
 
